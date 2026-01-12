@@ -21,6 +21,7 @@ My contributions include:
 - Impulse response functions (IRFs)
 - Residual bootstrapping with parallel workers
 - Granger causality testing and bootstrap inference
+- Weather Data Retrieval
 
 ## Project Demonstration
 
