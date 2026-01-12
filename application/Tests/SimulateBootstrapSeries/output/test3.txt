@@ -1,0 +1,4 @@
+# T=10, K=2, first p=1 row matches
+10 2
+1.0 2.0
+

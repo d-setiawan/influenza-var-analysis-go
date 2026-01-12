@@ -1,0 +1,4 @@
+# Single shock on single variable
+1
+0 3 1.0 0.8 0.64
+

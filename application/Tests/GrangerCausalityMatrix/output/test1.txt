@@ -1,0 +1,7 @@
+# K=2, so 2 off-diagonal results (0->1, 1->0)
+# Format: K num_results
+# then: cause_idx effect_idx lags (just verify structure, not exact F/p values)
+2 2
+0 1 1
+1 0 1
+

@@ -1,0 +1,7 @@
+# K=2, so 2 off-diagonal results with bootstrap p-values
+# Format: K num_results
+# then: cause_idx effect_idx (verify structure, p-value in [0,1])
+2 2
+0 1
+1 0
+

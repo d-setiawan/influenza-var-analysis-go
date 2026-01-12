@@ -1,0 +1,5 @@
+# Test ModelSpec: lags=5, det=DetTrend(2), hasExogenous=false
+5
+2
+0
+

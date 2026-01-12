@@ -1,0 +1,3 @@
+# Expected: phi_hat = 0.0 (minimum norm solution)
+0.0
+

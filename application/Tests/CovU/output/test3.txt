@@ -1,0 +1,4 @@
+# All diagonal=1, off-diagonal=0
+1.0
+0.0
+

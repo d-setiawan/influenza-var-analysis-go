@@ -1,0 +1,15 @@
+# Simple VAR(1) data following y_t = 0.5 y_{t-1}
+# Format: K T lags det_type
+# Then: Y data (T x K, row by row)
+1
+7
+1
+0
+1.0
+0.5
+0.25
+0.125
+0.0625
+0.03125
+0.015625
+

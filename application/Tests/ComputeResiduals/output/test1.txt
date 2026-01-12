@@ -1,0 +1,7 @@
+# Expected: T-p=4 residuals, all ≈ 0
+4
+0.0
+0.0
+0.0
+0.0
+

@@ -1,0 +1,4 @@
+# 1x1 covariance matrix (scalar variance)
+1
+4.0
+

@@ -1,0 +1,5 @@
+# Expected: causeVar=y2, effectVar=y1, lags=1
+y2
+y1
+1
+

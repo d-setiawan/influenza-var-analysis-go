@@ -1,0 +1,16 @@
+# VAR(1) scalar without deterministics: y_t = 0.5 y_{t-1}
+# Format: K lags det_type steps
+# then: A_1 coefficients (K*K values)
+# then: history rows (T values)
+1
+1
+0
+3
+0.5
+5
+1.0
+0.5
+0.25
+0.125
+0.0625
+

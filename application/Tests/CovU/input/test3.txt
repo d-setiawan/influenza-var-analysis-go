@@ -1,0 +1,6 @@
+# 3x3 identity covariance matrix
+3
+1.0 0.0 0.0
+0.0 1.0 0.0
+0.0 0.0 1.0
+

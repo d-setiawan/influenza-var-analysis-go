@@ -1,0 +1,9 @@
+# 2x2 VAR with 2 lags
+# Format: K num_lags then A matrices row by row
+2
+2
+0.5 0.1
+0.2 0.3
+0.1 0.0
+0.0 0.1
+

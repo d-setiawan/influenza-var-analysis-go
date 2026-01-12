@@ -1,0 +1,11 @@
+# Data with systematic +0.5 residual each period
+1
+4
+1
+0
+0.3
+1.0
+0.8
+0.74
+0.722
+

@@ -1,0 +1,5 @@
+# Expected: causeVar=y1, effectVar=y2, lags=2, valid F-stat and p-value
+y1
+y2
+2
+

@@ -1,0 +1,3 @@
+# Expected: phi_hat ≈ 0.3
+0.3
+

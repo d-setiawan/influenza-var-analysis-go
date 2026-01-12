@@ -1,0 +1,14 @@
+# 2x2 VAR(1) diagonal coefficients, analyze var 0
+# Format: K lags det_type var_index horizon
+# then: A matrices (K*K per lag)
+# then: SigmaU (K*K)
+2
+1
+0
+0
+5
+0.5 0.0
+0.0 0.3
+1.0 0.0
+0.0 1.0
+

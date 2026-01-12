@@ -1,0 +1,13 @@
+# VAR(1) with constant only: y_t = 1.0 (constant), A_1 = 0
+# Format: K lags det_type steps
+1
+1
+1
+4
+0.0
+1.0
+3
+0.0
+0.0
+0.0
+

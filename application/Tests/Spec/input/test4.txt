@@ -1,0 +1,5 @@
+# Test ModelSpec: lags=2, det=DetConstTrend(3), hasExogenous=true
+2
+3
+1
+

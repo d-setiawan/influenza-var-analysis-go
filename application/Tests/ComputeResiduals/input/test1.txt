@@ -1,0 +1,15 @@
+# Data from VAR(1): y_t = 0.5 y_{t-1}, residuals should be ~0
+# Format: K T lags det_type
+# Then: A matrix (K*K values per lag)
+# Then: Y data (T rows)
+1
+5
+1
+0
+0.5
+1.0
+0.5
+0.25
+0.125
+0.0625
+

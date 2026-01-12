@@ -1,0 +1,5 @@
+# 2x2 with different covariance
+2
+2.5 1.2
+1.2 3.0
+

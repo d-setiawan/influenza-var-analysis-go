@@ -1,0 +1,7 @@
+# Expected: K=2 shock results, each with horizon=5
+# Format: num_shocks
+# then for each: shock_idx horizon (verify structure)
+2
+0 5
+1 5
+

@@ -1,0 +1,5 @@
+# Test ModelSpec: lags=1, det=DetNone(0), hasExogenous=false
+1
+0
+0
+

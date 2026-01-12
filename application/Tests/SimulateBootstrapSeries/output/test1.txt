@@ -1,0 +1,6 @@
+# Expected: T=20 rows, K=2 cols
+# First p=2 rows should match original Y exactly
+20 2
+0.0 0.1
+0.1 0.2
+

@@ -1,0 +1,10 @@
+# All zeros data - tests pseudoinverse fallback
+1
+4
+1
+0
+0.0
+0.0
+0.0
+0.0
+

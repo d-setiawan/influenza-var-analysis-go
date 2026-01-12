@@ -1,0 +1,3 @@
+# Expected: 2 matrices, first A[0][0][0]=0.5
+2
+0.5
